@@ -1,0 +1,14 @@
+form{
+    text-align:center;
+    background-color:lightgray;
+    border:2px solid mediumvioletred;
+    width:300px;
+    margin:auto;
+    resize:none;
+}
+
+textarea{
+    resize:none;
+    width:200px;
+    height:120px;
+}

@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: tan;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: -5px;
+}
+div{
+    float:left;
+    border: 2px solid #7a9b8f;
+    margin: 10px 10px 20px 10px;
+}
+p{
+    text-align: center;
+    background-color: darkviolet;
+    color: darkorange;
+    font-family: Arial Narrow;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
