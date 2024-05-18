@@ -1,0 +1,146 @@
+body {
+    font-family: 'Arial Black';
+    background: #dbbd12;
+}
+
+.logo {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    text-align: center;
+    font-size: 2em;
+}
+
+.u {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: -62px;
+    margin-left: 279px;
+    margin-top: -70px;
+    color: rgb(252, 248, 9);
+}
+
+.a {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: -62px;
+    margin-left: 332px;
+    margin-top: 16px;
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+	color: #fff;
+}
+
+ul {
+	list-style: none
+}
+
+nav ul {
+    display: flex;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+nav ul li {
+    flex: 1;
+}
+
+nav ul li a {
+    display: block;
+	width: 100%;
+	background: #edcd13;
+	color: #fff;
+	text-transform: uppercase;
+    padding: 20px 0;
+    margin-left: -20px;
+    margin-top: 15px;
+}
+
+nav ul li a:hover {
+    background: #fad70a;
+}
+
+nav ul li a:active {
+    background: #fad70a;
+}
+.main {
+    width: 1000px;;
+    height: 1090px;
+    background: lightgray;
+    margin-left: 205px;
+}
+
+hr {
+    width: 80%;
+}
+footer {
+    text-align: center;
+    background: #edcd13;
+    height: 90px;
+    width: 960px;
+    margin-left: 225px;
+    margin-top: -125px;
+}
+
+footer p {
+    padding: 30px 15px;
+    font-size: 4
+}
+.header {
+    text-align: center;
+}
+
+.box {
+    background: #edcd13;
+    width: 350px;
+    height: 275px;
+    margin-left: 98px;
+    margin-top: 10px;
+    font-size: 1.5em;
+    display: inline-block;
+}
+
+.box p.item {
+    text-align: center;
+    padding-top: 6px;
+    margin-top: 17px;
+}
+
+.box p.price {
+    text-align: center;
+    padding-top: 0px;
+}
+
+.info_item {
+    width: 280px;
+    height: 40px;
+    background: #dec328;
+    margin-left: 35px;
+    text-transform: uppercase;
+    font-size: 26px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.info_item:hover {
+    background: #e8cb25;
+}
+
+.info_item:active {
+    background: #e8cb25;
+}
+img {
+    width: 100px;
+    height: 100px;  
+}
+#hr {
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 16px;
+}

@@ -1,0 +1,266 @@
+body {
+    font-family: 'Arial Black';
+    background: #dbbd12;
+    text-align: center;
+}
+
+.logo {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    text-align: center;
+    font-size: 2em;
+}
+
+.u {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: -62px;
+    margin-left: 279px;
+    margin-top: -70px;
+    color: rgb(252, 248, 9);
+}
+
+.a {
+    font-family: 'Arial Black';
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: -62px;
+    margin-left: 332px;
+    margin-top: 16px;
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+	color: #fff;
+}
+
+ul {
+	list-style: none
+}
+
+nav ul {
+    display: flex;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+nav ul li {
+    flex: 1;
+}
+
+nav ul li a {
+    display: block;
+	width: 100%;
+	background: #edcd13;
+	color: #fff;
+	text-transform: uppercase;
+    padding: 20px 0;
+    margin-left: -20px;
+    margin-top: 15px;
+}
+
+nav ul li a:hover {
+    background: #fad70a;
+}
+
+nav ul li a:active {
+    background: #fad70a;
+}
+.main {
+    width: 1000px;
+    height: 775px;
+    background: lightgray;
+    margin-left: 205px;
+}
+
+hr {
+    width: 80%;
+}
+footer {
+    text-align: center;
+    background: #edcd13;
+    height: 90px;
+    width: 960px;
+    margin-left: 20px; 
+    margin-top: -15px;
+}
+
+footer p {
+    padding: 30px 15px;
+}
+.header {
+    text-align: center;
+}
+
+.box {
+    background: #edcd13;
+    width: 960px;
+    height: 535px;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 1.5em;
+    padding-top: 1px;
+}
+
+.h2 {
+    background: #ffd900;
+    width: 890px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+.order {
+    background: #dec328;
+    width: 890px;
+    height: 400px;
+    margin-left: 35px;
+    margin-top: -10px;
+}
+
+.info {
+    margin-left: -126px;
+    margin-top: -22px;
+}
+
+.info_2 {
+    margin-left: -351px;
+    margin-top: -22px;
+}
+
+.info_3 {
+    margin-left: -348px;
+    margin-top: -22px;
+}
+
+.info_4 {
+    margin-left: 10px;
+    margin-top: -22px;
+}
+
+.info_5 {
+    margin-top: -22px;
+    margin-left: -125px;
+}
+
+.info_6 {
+    margin-left: -199px;
+    margin-top: -22px;
+}
+
+.info_7 {
+    margin-left: -147px;
+    margin-top: -22px;
+}
+
+.right__side {
+    background: rgb(163, 163, 233);
+    width: 272px;
+    height: 344px;
+    margin-left: 653px;
+    margin-top: -10px;
+}
+
+.box p.item {
+    text-align: center;
+    padding-top: 6px;
+    margin-top: 17px;
+}
+
+.box p.price {
+    text-align: center;
+    padding-top: 0px;
+}
+
+.info_item {
+    width: 280px;
+    height: 40px;
+    background: yellowgreen;
+    margin-left: 302px;
+    text-transform: uppercase;
+    font-size: 26px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.info_item:hover {
+    background: rgb(167, 230, 42)
+}
+
+.info_item:active {
+    background: rgb(167, 230, 42)
+}
+
+img {
+    width: 95px;
+    height: 95px;
+    margin-top: -25px;
+    margin-left: -790px;
+}
+
+.adress {
+    margin-top: -71px;
+    margin-left: -170px;
+}
+
+.telephone {
+    margin-top: -77px;
+    margin-left: -355px;
+    color: black;   
+}
+
+.logo_dialer {
+    width: 115px;
+    height: 115px;
+    margin-top: -1px;
+    margin-left: -790px;
+
+}
+
+.qr_code {
+    width: 180px;
+    height: 220px;
+    margin-top: -345px;
+    margin-left: 585px;
+}
+#hr {
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 16px;
+}
+
+hr {
+    width: 80%;
+    margin-top: 10px;
+}
+
+.h3 {
+    margin-top: -15px;
+}
+
+.marks {
+    background: yellow;
+    width: 270px;
+    height: 45px;
+    text-align: center;
+    font-family: 'Arial Black';
+    font-size: 20px;
+}
+
+.checkbox {
+    width: 25px;
+    height: 20px;
+}
+
+textarea {
+    background: yellow;
+    width: 405px;
+    height: 205px;
+    text-align: center;
+    font-family: 'Arial Black';
+    font-size: 20px;
+    resize: none;
+}
